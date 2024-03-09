@@ -28,3 +28,4 @@ print("{:.2f}".format(d))
 
 
 ### RESULT:
+Thus the distance of the two points is sucessfully executed and displayed.
