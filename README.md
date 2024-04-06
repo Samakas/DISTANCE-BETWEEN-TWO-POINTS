@@ -15,17 +15,20 @@ using the print function, display the distance between the two points.
 End the program.
 ### PROGRAM:
   ```python
+  Developed By: Samakash.R.S
+  Register Number: 212223230182
+
 import math 
 l1 = [4,2]
 l2 = [10,6]
 d = math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(d))
+
 ```
 
 
 ### OUTPUT:
-![Screenshot 2024-03-09 094200](https://github.com/Samakas/DISTANCE-BETWEEN-TWO-POINTS/assets/154731670/97e18955-ef30-4be4-adde-5e4b86180903)
-
+![alt text](<Screenshot 2024-04-06 103519.png>)
 
 ### RESULT:
 Thus the distance of the two points is sucessfully executed and displayed.
